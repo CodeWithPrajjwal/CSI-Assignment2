@@ -1,0 +1,25 @@
+.ul-container .list-heading {
+     margin: 0;
+     font-size: 1.5rem;
+     text-align: center;
+     width:fit-content;
+     margin: 0 auto 40px auto;
+     border-radius: 10px;
+     border: 1px solid #000000;
+     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+     padding: 10px;
+     background-color: #3f51b5;
+     color: rgb(255, 255, 255);
+
+
+}
+ .todo-list {
+    display: flex;
+    gap: 40px;
+    justify-content:space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-inline-start: 0 !important;
+ }
+
+

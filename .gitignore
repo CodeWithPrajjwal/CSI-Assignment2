@@ -8,6 +8,12 @@
 # testing
 /coverage
 
+/src/__tests__
+
+/jest.config.js
+
+/App.test.js
+
 # production
 /build
 
